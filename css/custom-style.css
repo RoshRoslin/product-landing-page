@@ -3,16 +3,18 @@
   top: 0;
   left: 0;
   }
-#form {
-  position: absolute;
-  justify-content: center;
-  bottom: 10px;
+form {
+  padding-top: 50px;
+  margin-left: 38%;
+  margin-right:25%;
+  width: 50%;
 }
 #header {
   position: fixed;
   top: 0;
   left: 0;
-  width 100%;
+  width: 100%;
+  padding-bottom: 10px;
 }
 #video {
   width:66%
@@ -46,6 +48,10 @@ justify-content: center;
 
 body {
 font-family: sans-serif;
+}
+#nav-bar{
+  padding-bottom: 10px;
+  padding-top: 10px;
 }
 
 .nav-link {
